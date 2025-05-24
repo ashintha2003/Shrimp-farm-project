@@ -6,9 +6,8 @@ We made a boat that can be driven in a shrimp farm, and the user can control the
 - **Microcontroller**: ESP32  
 - **Development Environment (IDE)**: Arduino IDE
 
-
-
 ## Images of the boat 
+
 
 
 ## images and video of the IOT platform 
@@ -19,7 +18,7 @@ We made a boat that can be driven in a shrimp farm, and the user can control the
 
 
 
-
+## videos of the project  
 https://github.com/user-attachments/assets/fa6860fe-f5d8-47ee-9de5-941bc79be7d0
 
 https://github.com/user-attachments/assets/65e7c2b0-334e-452e-8975-9b2168da52c4
