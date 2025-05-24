@@ -10,7 +10,7 @@ We made a boat that can be driven in a shrimp farm, and the user can control the
 
 
 
-## images of the IOT platform 
+## image of the IOT platform 
 
 ![Screenshot 2025-05-23 021458](https://github.com/user-attachments/assets/7fff5cc7-3da9-47d3-a37f-4958288b4b20)
 
